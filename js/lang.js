@@ -1,6 +1,8 @@
 /*
     Defines a global variable for the apps text, error messages, etc
 */
+exports const CalculatorLang;
+
 
 const CALCULATORLANG = new Map([
   [
